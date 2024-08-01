@@ -9,7 +9,8 @@ This Cypress test script automates the process of filling out the "Weight Loss E
 * Node.js and npm installed on your machine.  
 * Cypress installed in your project. If not, you can install it using the following command:
 
-npm install cypress \--save-dev
+if installed, run npm install
+if not, npm install cypress \--save-dev
 
 ## **Running the Test**
 
