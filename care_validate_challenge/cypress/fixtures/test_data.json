@@ -1,0 +1,102 @@
+{
+
+    "credentials":{
+        "username": "qa+employee@carevalidate.com",
+        "password" : "bLPgk5tr7D3ZqplabelInputvV@aNKz"
+    },
+
+    "form": "Weight Loss Eligibility Intake Form test",
+    "thankyouMessage": "Thank you for your submission. We have sent you a confirmation email for your records.",
+    "myRequest": "My Requests",
+    "created": "Created",
+    "submitted": "Submitted",
+
+    "formSteps": [
+      {
+        "label": "What was your gender at birth? *",
+        "inputType": "select",
+        "value": "Male"
+      },
+      {
+        "label": "What is your age? Are you older than 18? *",
+        "inputType": "input",
+        "value": "Over 18"
+      },
+      {
+        "label": "What is your height (ft, in)? *",
+        "inputType": "input",
+        "value": "5ft"
+      },
+      {
+        "label": "How much do you weigh (lbs)? *",
+        "inputType": "input",
+        "value": "80"
+      },
+      {
+        "label": "Do you have any of the following conditions? (select all that apply) *",
+        "inputType": "multiselect",
+        "value": "High Cholesterol , Fatty Liver Disease, other"
+      },
+      {
+        "label": "Do you have any of the following conditions? (select all that apply) *",
+        "inputType": "multiselect",
+        "value": "Serious Allergic reaction to Semaglutide or Tirzepitide or compounded components , Active Cancer"
+      },
+      {
+        "label": "What are your weight loss goals? *",
+        "inputType": "select",
+        "value": "Maintain my healthy weight"
+      },
+      {
+        "label": "What weight loss initiatives have you tried in the past? (select all that apply) *",
+        "inputType": "multiselect",
+        "value": "Exercise, Dieting"
+      },
+      {
+        "label": "Date of Birth *",
+        "inputType": "date",
+        "value": "22"
+      },
+      {
+        "label": "Email Address *",
+        "inputType": "input",
+        "value": "email@email.com"
+      },
+      {
+        "label": "Phone number *",
+        "inputType": "input",
+        "value": "9876543210"
+      },
+      {
+        "label": "Shipping address *",
+        "inputType": "input",
+        "value": "abc"
+      },
+      {
+        "label": "City *",
+        "inputType": "input",
+        "value": "bangalore"
+      },
+      {
+        "label": "State *",
+        "inputType": "input",
+        "value": "Karnataka"
+      },
+      {
+        "label": "Zip Code *",
+        "inputType": "input",
+        "value": "560076"
+      },
+      {
+        "label": "Do you require translation services? *",
+        "inputType": "radio",
+        "value": "No"
+      },
+      {
+        "label": "Please upload a government issued form of ID (Driver's License, Passport, etc). Please be sure that your full name and photo are easily visible. *",
+        "inputType": "upload",
+        "value": "id.jpg"
+      }
+    ]
+  }
+  
