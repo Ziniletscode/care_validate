@@ -3,13 +3,15 @@
   "version": "1.0.0",
   "main": "cypress.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run"
+    
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
     "cypress": "^13.13.2",
-    "cypress-file-upload": "^5.0.8"
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.8.2"
   }
 }

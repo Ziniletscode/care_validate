@@ -16,7 +16,17 @@ if not, npm install cypress \--save-dev
 
 1. Open the Cypress Test Runner.
 
-npx cypress open
+npx cypress open.
+
+## **Recording video**
+
+1. Set config file in cypress.config.js.
+2. Make video = true.
+3. Run below commands.
+npx cypress run --browser chrome
+
+
+
 
 ## **github actions CI/CD file included**
 
